@@ -8,4 +8,6 @@
       ],
       "tensorPath": "https://raw.githubusercontent.com/alipphardt/visualize_embeddings/master/visualize_embedding_tensor.tsv",
       "metadataPath": "https://raw.githubusercontent.com/alipphardt/visualize_embeddings/master/visualize_embedding_metadata.tsv"
+    }
+  ]
 }
